@@ -4,6 +4,7 @@
     "bodyTextLabel" : "Body Text",
     "primaryLinkName" : "Primary Link",
     "linkListTitle" : "Link List",
+    "cardName" : "Card Name",
     "active" : true,
     "program" : {
         "name" : "Program Name",
