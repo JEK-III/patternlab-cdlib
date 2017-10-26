@@ -1,2 +1,16 @@
 {{> modules-header }}
+{{> components-title }}
+{{> components-activity-indicator }}
+{{> components-date-range }}
+{{> modules-body-text }}
+<div class= "placeholder">
+    <h3>Group Roster</h3>
+</div>
+{{# show.relatedNews }}
+    {{> modules-related-news }}
+{{/ show.relatedNews }}
+{{# show.relatedGroups }}
+    {{> modules-related-groups }}
+{{/ show.relatedGroups }}
+{{> modules-page-metadata }}
 {{> modules-footer }}

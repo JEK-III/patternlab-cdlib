@@ -1,37 +1,65 @@
 {
-    "pagetTitle": "Page Title",
-    "tagline" : "Convallis convallis tellus id interdum velit laoreet. [Tagline]",
+    "pageTitle" : "Page Title",
+    "tagline" : "Tagline convallis tellus id interdum velit laoreet.",
+    "bodyTextLabel" : "Body Text",
+    "primaryLinkName" : "Primary Link",
+    "linkListTitle" : "Link List",
+    "active" : true,
     "program" : {
-    "name" : "Program Name",
-    "tag" : "Program tagline",
+        "name" : "Program Name",
+        "tag" : "Program tagline"
     },
+    "person" : {
+        "name" : "Person Name",
+        "jobTitle" : "Job Title"
+    },
+    "pageOwner" : "Page Owner",
+    "dateModified" : "Month, DD, YYYY",
     "service" : {
         "name" : "Service Name",
-        "tag" : "Service tagline",
+        "tag" : "Service tagline"
     },
     "project" : {
         "name" : "Project Name",
         "tag" : "Project tagline",
         "active" : "Active/concluded"
     },
+    "group" : {
+        "name" : "Group/Committee Name",
+        "tag" : "Group tagline",
+        "active" : "Active/concluded"
+    },
+    "page" : {
+        "name" : "Page Title",
+        "tag" : "Page tagline or excerpt"
+    },
     "img": {
         "generic" : {
-            "src" : "../../../images/card-image.png",
+            "src" : "../../images/generic-image.png",
             "alt" : "generic image placeholder"
 
         },
         "staffPortrait" : {
-            "src" : "../../../images/staff-portrait.png",
+            "src" : "../../images/portrait-image.png",
             "alt" : "Photo of staff member"
         },
         "logo" : {
-            "src" : "../../../images/logo-600x150.png",
-            "alt" : "Horizonal Logo w/ incorporated text"        
+            "src" : "../../images/logo-image.png",
+            "alt" : "Horizonal Logo w/ incorporated text"
+        },
+        "large" : {
+            "src" : "../../images/large-image.png",
+            "alt" : "Header Image"
         }
     },
     "placeholderText" : {
         "sentence" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "paragraph" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Arcu dictum varius duis at consectetur lorem donec massa. Nisl vel pretium lectus quam. Tristique senectus et netus et malesuada fames ac. Risus viverra adipiscing at in tellus integer feugiat. Ipsum faucibus vitae aliquet nec ullamcorper. Justo donec enim diam vulputate ut pharetra sit. Ut etiam sit amet nisl purus. In iaculis nunc sed augue. Eleifend mi in nulla posuere. Elementum curabitur vitae nunc sed velit dignissim sodales ut eu. Aliquam sem et tortor consequat id porta nibh venenatis. A condimentum vitae sapien pellentesque habitant. Vel facilisis volutpat est velit egestas dui id ornare arcu. Ac turpis egestas sed tempus urna et. Vitae tempus quam pellentesque nec.",
-        "essay" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Arcu dictum varius duis at consectetur lorem donec massa. Nisl vel pretium lectus quam. Tristique senectus et netus et malesuada fames ac. Risus viverra adipiscing at in tellus integer feugiat. Ipsum faucibus vitae aliquet nec ullamcorper. Justo donec enim diam vulputate ut pharetra sit. Ut etiam sit amet nisl purus. In iaculis nunc sed augue. Eleifend mi in nulla posuere. Elementum curabitur vitae nunc sed velit dignissim sodales ut eu. Aliquam sem et tortor consequat id porta nibh venenatis. A condimentum vitae sapien pellentesque habitant. Vel facilisis volutpat est velit egestas dui id ornare arcu. Ac turpis egestas sed tempus urna et. Vitae tempus quam pellentesque nec. <br>Convallis convallis tellus id interdum velit laoreet. Faucibus a pellentesque sit amet porttitor eget. Turpis cursus in hac habitasse platea dictumst. Orci dapibus ultrices in iaculis. Felis bibendum ut tristique et egestas quis ipsum. Integer enim neque volutpat ac tincidunt vitae semper quis. Tellus cras adipiscing enim eu turpis egestas pretium aenean. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Cras fermentum odio eu feugiat pretium nibh ipsum. Morbi tristique senectus et netus et. Interdum varius sit amet mattis vulputate. <br>Turpis egestas maecenas pharetra convallis posuere morbi leo urna molestie. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Nunc sed id semper risus in hendrerit. Sagittis eu volutpat odio facilisis mauris. Neque volutpat ac tincidunt vitae semper quis lectus nulla at. Donec massa sapien faucibus et molestie ac. Elementum nisi quis eleifend quam adipiscing vitae proin. Turpis massa sed elementum tempus egestas sed sed. Tellus cras adipiscing enim eu turpis egestas pretium aenean pharetra. Volutpat ac tincidunt vitae semper quis. Purus sit amet volutpat consequat mauris nunc congue nisi vitae. Sit amet mauris commodo quis. Sit amet porttitor eget dolor morbi non arcu. Scelerisque purus semper eget duis at tellus. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius."
-    }   
+        "essay" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Arcu dictum varius duis at consectetur lorem donec massa. Nisl vel pretium lectus quam. Tristique senectus et netus et malesuada fames ac. Risus viverra adipiscing at in tellus integer feugiat. Ipsum faucibus vitae aliquet nec ullamcorper. Justo donec enim diam vulputate ut pharetra sit. Ut etiam sit amet nisl purus. In iaculis nunc sed augue. Eleifend mi in nulla posuere. Elementum curabitur vitae nunc sed velit dignissim sodales ut eu. Aliquam sem et tortor consequat id porta nibh venenatis. A condimentum vitae sapien pellentesque habitant. Vel facilisis volutpat est velit egestas dui id ornare arcu. Ac turpis egestas sed tempus urna et. Vitae tempus quam pellentesque nec.<br>Convallis convallis tellus id interdum velit laoreet. Faucibus a pellentesque sit amet porttitor eget. Turpis cursus in hac habitasse platea dictumst. Orci dapibus ultrices in iaculis. Felis bibendum ut tristique et egestas quis ipsum. Integer enim neque volutpat ac tincidunt vitae semper quis. Tellus cras adipiscing enim eu turpis egestas pretium aenean. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Cras fermentum odio eu feugiat pretium nibh ipsum. Morbi tristique senectus et netus et. Interdum varius sit amet mattis vulputate.<br>Turpis egestas maecenas pharetra convallis posuere morbi leo urna molestie. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Nunc sed id semper risus in hendrerit. Sagittis eu volutpat odio facilisis mauris. Neque volutpat ac tincidunt vitae semper quis lectus nulla at. Donec massa sapien faucibus et molestie ac. Elementum nisi quis eleifend quam adipiscing vitae proin. Turpis massa sed elementum tempus egestas sed sed. Tellus cras adipiscing enim eu turpis egestas pretium aenean pharetra. Volutpat ac tincidunt vitae semper quis. Purus sit amet volutpat consequat mauris nunc congue nisi vitae. Sit amet mauris commodo quis. Sit amet porttitor eget dolor morbi non arcu. Scelerisque purus semper eget duis at tellus. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius."
+    },   
+    "relatedNews" : [
+        "Related News Title One",
+        "Related News Title Two",
+        "Related News Title Three"
+    ]
 }

@@ -431,6 +431,7 @@ a {
   a:hover, a:focus {
     color: #444444; }
 
+
 /*------------------------------------*\
     #LINKS
 \*------------------------------------*/
@@ -606,13 +607,17 @@ abbr {
 
 .placeholder {
     display: block;
-    text-align: center;
+    text-align: left;
     vertical-align: middle;
     color:white;
     background-color: gray;
     min-height: 3rem;
     padding: 1rem;
     margin-bottom: 0.5rem;
+}
+
+a.placeholder {
+    color : white;
 }
 
 .card {

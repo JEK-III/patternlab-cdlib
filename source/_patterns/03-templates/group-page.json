@@ -1,0 +1,8 @@
+{
+    "show" : {
+        "relatedNews" : true,
+        "relatedGroups" : true
+    },
+    "pageTitle" : "Group Name",
+    "bodyTextLabel" : "Group Description"
+}

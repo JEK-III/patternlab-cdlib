@@ -1,6 +1,26 @@
 {{> modules-header }}
-{{> modules-visual-area}}
-{{> elements-logo}}
-{{> components-title}}
-{{> components-tagline}}
+{{> modules-visual-area }}
+{{> modules-local-nav }}
+{{> components-logo }}
+{{> components-title }}
+{{# show.tagline }}
+    {{> elements-tagline }}
+{{/ show.tagline }}
+{{> elements-primary-link }}
+{{> modules-body-text }}
+{{# show.highlight }}
+    {{> modules-highlight-area}}
+{{/ show.highlight}}
+{{# show.staffMembers }}
+    {{> modules-card-container(title: "Service Staff", cardType: "components-person-card") }}
+{{/ show.staffMembers }}
+{{> modules-contact-info }}
+{{# show.relatedGroups }}
+    {{> modules-related-groups}}
+{{/ show.relatedGroups }}
+{{> modules-related-news }}
+{{# show.linkList }}
+    {{> modules-link-list }}
+{{/ show.linkList }}
+{{> modules-page-metadata }}
 {{> modules-footer }}

@@ -1,0 +1,7 @@
+{
+    "show" : {
+      "tagline" : true  
+    },
+    "pageTitle" : "Post Title",
+    "bodyTextLabel" : "Post Body"
+ }

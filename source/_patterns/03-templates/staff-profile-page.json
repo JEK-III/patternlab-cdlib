@@ -1,0 +1,16 @@
+{
+    "show" : {
+        "portrait" : true,
+        "textSection" : [ 
+            {"title" : "Education"}, 
+            {"title" : "Background"}, 
+            {"title" : "Committees and Affiliations"},
+            {"title" : "Professional Interests"}
+        ], 
+        "publications" : true,
+        "orcid" : true,
+        "linkedIn" : true,
+        "twitter" : true
+    },
+    "pageTitle" : "Person Name"
+}

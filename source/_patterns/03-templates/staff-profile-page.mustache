@@ -1,2 +1,14 @@
 {{> modules-header }}
+{{> components-title }}
+{{# show.portrait }}
+    <div class= "placeholder">
+        {{> elements-staff-portrait}}
+    </div>
+{{/ show.portrait }}
+{{# show.textSection }}
+    {{> components-text-block }}
+{{/ show.textSection }}
+{{# show.publications }}
+    {{> components-placeholder-block(name: "Publications and Presentations")}}
+{{/ show.publications }}
 {{> modules-footer }}

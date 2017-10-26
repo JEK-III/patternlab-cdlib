@@ -1,0 +1,14 @@
+{
+    "pageTitle" : "Service Name",
+    "tagline" : "Service tagline convallis tellus id interdum velit laoreet.",
+    "bodyTextLabel" : "Service Description",
+    "logoID" : "Service Logo",
+    "primaryLinkName" : "Link to Service Page",
+    "show" : {
+        "tagline" : true,
+        "higlight" : true,
+        "relatedGroups" : true,
+        "staffMembers" : true,
+        "linkList" : true
+    }
+}

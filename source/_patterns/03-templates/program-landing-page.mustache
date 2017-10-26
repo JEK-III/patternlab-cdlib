@@ -1,6 +1,17 @@
 {{> modules-header }}
-{{> modules-visual-area}}
+{{> modules-visual-area }}
+{{> modules-local-nav }}
+{{> components-logo}}
 {{> components-title }}
-{{> components-tagline }}
+{{> elements-tagline }}
+{{> modules-body-text}}
+{{> modules-card-container(title: "Program Services", cardType: "components-service-card") }}
+{{> modules-related-news }}
+{{# show.relatedGroups }}
+    {{> modules-related-groups }}
+{{/ show.relatedGroups }}
+{{> modules-link-list}}
+{{> modules-card-container(title: "Service Staff", cardType: "components-person-card") }}
+{{> modules-contact-info }}
 {{> modules-page-metadata}}
 {{> modules-footer }}

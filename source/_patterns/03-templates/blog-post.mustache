@@ -1,7 +1,11 @@
 {{> modules-header }}
-{{> components-title}}
-{{> components-author}}
-{{> components-date-published}}
-{{> components-categories}}
-{{> modules-body-text}}
+{{> components-title }}
+{{# show.tagline }}
+    {{> elements-tagline }}
+{{/ show.tagline }}
+{{> components-author }}
+{{> components-date-published }}
+{{> modules-body-text }}
+{{> components-categories }}
+{{> modules-local-nav }}
 {{> modules-footer }}

@@ -1,0 +1,9 @@
+{
+   "show" : {
+       "relatedGroups" : true
+   },
+    "pageTitle" : "Program Name",
+    "tagline" : "Program tagline convallis tellus id interdum velit laoreet.",
+    "bodyTextLabel" : "Program Description",
+    "logoID" : "Program Logo"
+}

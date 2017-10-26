@@ -1,0 +1,30 @@
+{
+    "show" : {
+        "tagline" : true,
+        "higlight" : false,
+        "relatedGroups" : false,
+        "staffMembers" : false,
+        "linkList" : true
+    },
+    "pageTitle" : "eScholarship",
+    "tagline" : "The open access (OA) institutional repository and scholarly publishing platform for the University of California.",
+    "bodyTextLabel" : false,
+    "logoID" : false,
+    "primaryLinkName" : "Go To eScholarship",
+    "pageOwner" : "Monica Westin",
+    "dateModified" : "July 13, 2017",
+    "linkListTitle" : "Quick Links",
+    "img" : {
+        "logo" : {
+            "src" : "../../images/logo_escholarship.svg",
+            "alt" : "eScholarship Logo"
+        },
+        "large" : {
+            "src" : "../../images/ucop.jpg",
+            "alt" : "photo of Lake Merritt"
+        }
+    },
+    "placeholderText" : {
+        "essay" : "<p>Home to more than 70,000 publications with more than 20 million item views since its inception, eScholarship enables UC scholars to openly share their existing publications with a global audience and provides alternative publishing options for new, original publications.</p><h4>Open Access Repository - Archive your existing publications with eScholarship</h4><ul><li>The UC Open Access Policy helps UC faculty increase the reach of their research by enabling <strong>immediate deposit of all scholarly articles</strong> accepted or published after July 24, 2013 (or May 21, 2012, for UCSF faculty) into the eScholarship repository.</li><li>Some publishers also allow authors to deposit  books, chapters, and conference proceedings - as well as articles published prior to the policy - in accordance with certain restrictions. Learn more</li></ul><h4>Open Access Publishing - Grow the audience for your new, original works with eScholarship</h4><ul><li><strong>Journals:</strong> UC faculty, students, and staff can leverage our powerful journal management platform to start a new academic journal or migrate an existing one to an open access publishing environment.</li><li><strong>Books:</strong> eScholarship has the tools you need to elegantly display your book-length works online and supports print-on-demand sales for these titles as well.</li><li><strong>Working Papers:</strong> Deposit working papers in eScholarship before your ideas get scooped, then link to the published versions when they’re ready.</li><li><strong>Media &amp; Data:</strong> Showcase your audio-visual content with eScholarship’s streaming media service, and open your datasets and data publications to the world.</li></ul><h4>Getting Started</h4><p>Learn how to get started archiving your publications or developing/migrating a journal within eScholarship’s open access publishing environment."
+    }
+}

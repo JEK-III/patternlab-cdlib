@@ -1,0 +1,26 @@
+{
+    "show" : {
+        "tagline" : true,
+        "higlight" : false,
+        "relatedGroups" : false,
+        "staffMembers" : true,
+        "linkList" : true
+    },
+    "pageTitle" : "Melvyl",
+    "tagline" : "UC Libraries' Discovery Platform",
+    "bodyTextLabel" : false,
+    "logoID" : false,
+    "primaryLinkName" : "Go To Melvyl",
+    "pageOwner" : "Melvyl Operations Team",
+    "dateModified" : "January 04, 2017",
+    "linkListTitle" : "Quick Links",
+    "img" : {
+        "logo" : {
+            "src" : "../../../images/logo_melvyl.gif",
+            "alt" : "Melvyl Logo"
+        }
+    },
+    "placeholderText" : {
+        "essay" : "<p>Melvyl is the discovery platform for the UC Libraries. Melvyl, powered by OCLC WorldCat Local, offers seamless connection to the larger research world – the ability to search 800 million+ items from research institutions throughout the world. OCLC makes small improvements to WorldCat Local on a monthly basis. We communicate relevant changes via CDLInfo News.</p><h3>WorldCat Discovery</h3><p>WorldCat Local will eventually be replaced by WorldCat Discovery. Read more about the WorldCat Discovery beta and timeline. CDL is working closely with OCLC to monitor progress of the beta. We are sharing progress in CDLInfo News.</p>"
+    }
+}
