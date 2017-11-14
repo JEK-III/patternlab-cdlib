@@ -4,8 +4,12 @@
     "bodyTextLabel" : "Body Text",
     "primaryLinkName" : "Primary Link",
     "linkListTitle" : "Link List",
-    "cardName" : "Card Name",
     "active" : true,
+    "card" : {
+        "name" : "Card Name",
+        "tagline" : "Card tagline convallis tellus id interdum velit laoreet.",
+        "extra" : "more information >"
+    },
     "program" : {
         "name" : "Program Name",
         "tag" : "Program tagline"
